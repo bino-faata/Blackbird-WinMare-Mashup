@@ -1,0 +1,8 @@
+[X-GNOME-Metatheme]
+Name=Blackbird-WinMare-Mashup
+Type=X-GNOME-Metatheme
+Comment=Blackbird/Nightemare-01/Windows-10-Dark based mashup
+GtkTheme=Blackbird-WinMare-Mashup
+MetacityTheme=Blackbird-WinMare-Mashup
+IconTheme=Moka
+CursorTheme=Adwaita
